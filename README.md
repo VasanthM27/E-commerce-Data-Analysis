@@ -38,7 +38,11 @@ The analysis performed on the dataset includes the following:
 - **Scatter plots**: Explored relationships between job titles and purchase prices.
 - **Pie charts**: Showed the proportion of purchases made during AM vs. PM.
 
-<img src="https://github.com/VasanthM27/Healthcare-Data-Analytics/blob/main/data/Screenshot%20(103).png?raw=true"/></br>
+<img src="https://github.com/VasanthM27/E-commerce-Data-Analysis/blob/main/captures/number1.PNG"/></br>
+<img src="https://github.com/VasanthM27/E-commerce-Data-Analysis/blob/main/captures/5.PNG"/></br>
+<img src="https://github.com/VasanthM27/E-commerce-Data-Analysis/blob/main/captures/3.PNG"/></br>
+<img src="https://github.com/VasanthM27/E-commerce-Data-Analysis/blob/main/captures/4.PNG"/></br>
+<img src="https://github.com/VasanthM27/E-commerce-Data-Analysis/blob/main/captures/2.PNG"/></br>
 
 ## Conclusion
 This e-commerce data analysis provided valuable insights into customer behavior, spending patterns, and preferences based on various attributes in the dataset. The analysis can help businesses tailor marketing strategies, improve customer targeting, and enhance overall sales performance by understanding key trends in their e-commerce transactions.
